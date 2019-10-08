@@ -1,3 +1,3 @@
-module github.com/EthanWalker0301/foo
+module github.com/zhengjilei/foo
 
 go 1.13
